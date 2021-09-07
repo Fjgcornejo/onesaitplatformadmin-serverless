@@ -1,0 +1,1 @@
+OSP Serverless Application: onesaitplatformadmin-serverless
